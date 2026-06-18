@@ -1,0 +1,1 @@
+# bug.testthat.coverage
