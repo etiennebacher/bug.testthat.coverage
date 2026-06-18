@@ -1,3 +1,3 @@
-f <- function(x = FALSE) {
+f <- function(x) {
   if (x) {}
 }
