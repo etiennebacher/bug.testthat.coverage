@@ -1,5 +1,5 @@
 1. Clone the repo
-2. Open `tests/testthat/test-foo.R` in Positron or RStudio
+2. Open `tests/testthat/test-foo.R` in Positron or RStudio (so that it is considered the "active file")
 3. `devtools::test()`
 
 ```
